@@ -1,6 +1,6 @@
 # Somya Ranjan Tripathi
 
-### Associate AI & Software Engineer | B.Tech CSE Undergrad
+### AI & Blockchain Associate & Full Stack Developer
 **Lucknow, India** 🇮🇳
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -55,7 +55,7 @@ I am an innovative **Computer Science Engineer** with a strong foundation in **D
 | Role | Organization | Timeline |
 | :--- | :--- | :--- |
 | **AI & ML Intern** | **YBI Foundation** (Remote) | *Sept 2024 - Nov 2024* |
-| **Software Engineer Intern** | **JPMorgan Chase & Co.** (Virtual/Forage) | *Oct 2023 - Present* |
+| **Software Engineer Intern** | **JPMorgan Chase & Co.** (Virtual/Forage) | *Oct 2024 - Nov 2024* |
 | **Solutions Architect Intern** | **AWS** (Virtual/Forage) | *Jul 2024 - Aug 2024* |
 
 ---
