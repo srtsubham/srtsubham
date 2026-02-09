@@ -1,6 +1,6 @@
 # Somya Ranjan Tripathi
 
-### AI & Blockchain Associate & Full Stack Developer
+### AI & Blockchain Associate | Full Stack Developer
 **Lucknow, India** 🇮🇳
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
