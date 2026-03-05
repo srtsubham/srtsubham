@@ -13,10 +13,10 @@
 ## 📖 About Me
 I am an innovative **Computer Science Engineer** with a strong foundation in **Data Structures & Algorithms** and **End-to-End AI Development**. I specialize in bridging the gap between raw data engineering and scalable software solutions.
 
-* 🔭 I’m currently working on **Ambaram Sentinel** (Satellite Weather Tracking).
-* 🌱 I’m currently learning **Blockchain Security** and **IoT Architecture**.
-* 💡 **Innovation:** Conceptualized "Emonet" (AI Automation) and Spy Camera Detection Systems.
-* 💬 Ask me about **Java, Python, AI Pipelines, and Spring Boot**.
+* 🔭 I’m currently working on **Smart Sahayak** (An AI driven Kiosk Project).
+* 🌱 I’m currently learning **DevOps** and **CI/CD**.
+* 💡 **Innovation:** Conceptualized "Hyper Project" (AI Automation) and Spy Camera Detection Systems.
+* 💬 Ask me about **Java, Python, AI Pipelines, API Handling, Projects, Pytorch, Kubernetes, Docker, CI/CD, Full Stack Project Management, Pandas, Ai & ML, Pandas, Numpy, Spring Boot & many more**.
 
 ---
 
@@ -55,6 +55,9 @@ I am an innovative **Computer Science Engineer** with a strong foundation in **D
 | Role | Organization | Timeline |
 | :--- | :--- | :--- |
 | **AI & ML Intern** | **YBI Foundation** (Remote) | *Sept 2024 - Nov 2024* |
+
+## 💻 Job Simulations
+
 | **Software Engineer Intern** | **JPMorgan Chase & Co.** (Virtual/Forage) | *Oct 2024 - Nov 2024* |
 | **Solutions Architect Intern** | **AWS** (Virtual/Forage) | *Jul 2024 - Aug 2024* |
 
