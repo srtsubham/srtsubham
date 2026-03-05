@@ -28,7 +28,7 @@ I am an innovative **Computer Science Engineer** with a strong foundation in **D
 | **AI & Data Science** | ![PyTorch](https://img.shields.io/badge/-PyTorch-black?logo=pytorch) ![Pandas](https://img.shields.io/badge/-Pandas-black?logo=pandas) ![NumPy](https://img.shields.io/badge/-NumPy-black?logo=numpy) ![Scikit-learn](https://img.shields.io/badge/-Scikit_Learn-black?logo=scikit-learn) |
 | **Web Dev** | ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-black?logo=springboot) ![React](https://img.shields.io/badge/-React-black?logo=react) ![Node.js](https://img.shields.io/badge/-Node.js-black?logo=nodedotjs) ![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5) |
 | **Databases** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?logo=postgresql) ![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql) |
-| **Tools & Cloud** | ![Git](https://img.shields.io/badge/-Git-black?logo=git) ![AWS](https://img.shields.io/badge/-AWS-black?logo=amazon-aws) ![Streamlit](https://img.shields.io/badge/-Streamlit-black?logo=streamlit) ![Postman](https://img.shields.io/badge/-Postman-black?logo=postman) |
+| **Tools & Cloud** | ![Git](https://img.shields.io/badge/-Git-black?logo=git) ![Streamlit](https://img.shields.io/badge/-Streamlit-black?logo=streamlit) ![Postman](https://img.shields.io/badge/-Postman-black?logo=postman) |
 
 ---
 
@@ -59,6 +59,7 @@ I am an innovative **Computer Science Engineer** with a strong foundation in **D
 ## 💻 Job Simulations
 
 | **Software Engineer Intern** | **JPMorgan Chase & Co.** (Virtual/Forage) | *Oct 2024 - Nov 2024* |
+| :--- | :--- | :--- |
 | **Solutions Architect Intern** | **AWS** (Virtual/Forage) | *Jul 2024 - Aug 2024* |
 
 ---
@@ -75,7 +76,7 @@ I am an innovative **Computer Science Engineer** with a strong foundation in **D
 ## 🤝 Connect With Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/somya-ranjan-tripathi-9136642a4/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="somya ranjan tripathi" /></a>
+<a href="https://www.linkedin.com/in/somya-ranjan-tripathi-9136b42a4/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="somya ranjan tripathi" /></a>
 <a href="mailto:somyar.tripathi@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="somyar.tripathi@gmail.com" /></a>
 </p>
 
