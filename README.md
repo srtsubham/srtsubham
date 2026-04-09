@@ -15,7 +15,7 @@ I am an innovative **Computer Science Engineer** with a strong foundation in **D
 
 * 🔭 I’m currently working on **Smart Sahayak** (An AI driven Kiosk Project).
 * 🌱 I’m currently learning **DevOps** and **CI/CD**.
-* 💡 **Innovation:** Conceptualized "Hyper Project" (AI Automation) and Spy Camera Detection Systems.
+* 💡 **Innovation:** Conceptualized Production Grade Systems (with AI Automation) and Spy Camera Detection Systems.
 * 💬 Ask me about **Java, Python, AI Pipelines, API Handling, Projects, Pytorch, Kubernetes, Docker, CI/CD, Full Stack Project Management, Pandas, Ai & ML, Pandas, Numpy, Spring Boot & many more**.
 
 ---
