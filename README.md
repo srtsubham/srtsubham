@@ -1,259 +1,70 @@
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=srtsubham&theme=neon" alt="hero"/>
+  <img src="https://www.gitskins.com/api/section/hero?username=srtsubham&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F99881046%3Fu%3Da14ac869b55315168c14e023e80bec42c836c0d4%26v%3D4" alt="srtsubham hero visual" />
 </p>
 
-<h1 align="center">Somya Ranjan Tripathi</h1>
+<p align="center"><b>Somya Ranjan Tripathi</b> · Frontend or full-stack engineer<br/><sub>Software Engineer with purpose-driven commits.
 
-<p align="center">
-<b>Software Development Engineer • Backend Engineer • Cloud & AI Infrastructure Builder</b>
-</p>
+ #Django #Springboot #Postgres #Pytorch #Docker #Flask #React.js #Next.js</sub></p>
 
-<p align="center">
-Software Engineer with purpose-driven commits.
-</p>
-
-<p align="center">
-
-#Java #SpringBoot #Python #AWS #Docker #Kubernetes #FastAPI #PostgreSQL #PyTorch #LangChain
-
-</p>
-
-<p align="center">
-<a href="https://github.com/srtsubham">GitHub</a> •
-<a href="https://srtripathi.netlify.app/">Portfolio</a> •
-<a href="https://www.linkedin.com/in/somya-ranjan-tripathi-9136b42a4/">LinkedIn</a> •
-<a href="mailto:somyar.tripathi@gmail.com">Email</a>
-</p>
-
----
+<p align="center"><a href="https://github.com/srtsubham">GitHub</a> · <a href="https://srtripathi.netlify.app/">Website</a></p>
 
 <details open>
-<summary><b>🚀 About Me</b></summary>
-
-<br>
-
-```yaml
-Name: Somya Ranjan Tripathi
-
-Role:
-  Software Development Engineer
-
-Focus:
-  - Backend Development
-  - Cloud Infrastructure
-  - AI Engineering
-  - Scalable SaaS Systems
-  - DevOps Automation
-
-Currently Building:
-  - LekhaBit
-  - Kydel ASM
-  - Smart Sahayak
-
-Currently Learning:
-  - Kubernetes
-  - System Design
-  - AWS Architecture
-  - Distributed Systems
-```
-
-</details>
-
----
-
-<details open>
-<summary><b>🧰 Tech Stack</b></summary>
-
-<br>
+<summary><b>📌 Top projects</b></summary>
+<br/>
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/stack?username=srtsubham&theme=neon" alt="stack visual"/>
+  <img src="https://www.gitskins.com/api/section/projects?username=srtsubham&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F99881046%3Fu%3Da14ac869b55315168c14e023e80bec42c836c0d4%26v%3D4" alt="srtsubham projects visual" />
 </p>
 
-### Languages
-
-- Java
-- Python
-- JavaScript
-- TypeScript
-- C++
-- SQL
-
-### Backend Engineering
-
-- Spring Boot
-- FastAPI
-- Django
-- Flask
-- Node.js
-- REST APIs
-
-### Cloud & DevOps
-
-- AWS
-- Docker
-- Kubernetes
-- Linux
-- GitHub Actions
-- CI/CD
-
-### AI & Data
-
-- PyTorch
-- LangChain
-- Hugging Face
-- Pandas
-- NumPy
-- Scikit-Learn
-
-### Databases
-
-- PostgreSQL
-- MySQL
-- MongoDB
+- [CampusSync](https://github.com/srtsubham/CampusSync) · ★ 2 — AWS based student management ERP system.
+- [Showcase](https://github.com/srtsubham/Showcase) · ★ 1 — My Portfolio project dedicated to myself.
+- [LekhaBit](https://github.com/srtsubham/LekhaBit) · ★ 1 — A Multipurose SaaS production project to improve efficiency in MSME sector related to GST filling an
+- [Leetcode_Dumps](https://github.com/srtsubham/Leetcode_Dumps) · ★ 0 — Leetcode Tracking Repo
+- [Doris](https://github.com/srtsubham/Doris) · ★ 0 — Predictive Hydrology and Algorithmic Water Allocation Engine.
+- [Medisys_Clinical_ERP](https://github.com/srtsubham/Medisys_Clinical_ERP) · ★ 0 — Django Python (In-Class) Project Repo for Technical Training assignment. 
 
 </details>
-
----
-
-<details open>
-<summary><b>📊 By The Numbers</b></summary>
-
-<br>
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/stats?username=srtsubham&theme=neon" alt="stats"/>
-</p>
-
-</details>
-
----
-
-<details open>
-<summary><b>🟩 Contribution Activity</b></summary>
-
-<br>
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/heatmap?username=srtsubham&theme=neon" alt="heatmap"/>
-</p>
-
-</details>
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/srtsubham/srtsubham/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
-</p>
-
----
-
-<details open>
-<summary><b>📌 Featured Projects</b></summary>
-
-<br>
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/projects?username=srtsubham&theme=neon" alt="projects"/>
-</p>
-
-### 💰 LekhaBit
-
-Production-scale SaaS platform for MSME digitization, GST workflow automation and collaborative operations.
-
-**Stack:** Java • Spring Boot • PostgreSQL • REST APIs
-
----
-
-### 🎓 CampusSync
-
-Cloud-native ERP and synchronization ecosystem leveraging AWS deployment architecture and containerized services.
-
-**Stack:** FastAPI • React • Docker • AWS
-
----
-
-### 🌩️ Ambaram Sentinel
-
-AI-powered weather intelligence system focused on extreme weather forecasting and meteorological analysis.
-
-**Stack:** Python • PyTorch • Streamlit • SQLite
-
-</details>
-
----
 
 <details>
-<summary><b>💼 Experience</b></summary>
-
-<br>
-
-### AWS Cloud Intern | GRASTech
-
-- AWS Infrastructure (EC2, S3, Lambda, VPC)
-- CI/CD Implementation
-- Cloud Operations
-- Infrastructure Automation
-
----
-
-### AI & Machine Learning Intern | YBI Foundation
-
-- Predictive Modelling
-- Data Engineering
-- Automated ML Pipelines
-- Regression Systems
-
-</details>
-
----
-
-<details>
-<summary><b>📜 Certifications</b></summary>
-
-<br>
-
-- Technical Training Program — Learnovate Enterprises
-- Python Backend Developer — FreeCodeCamp
-- Relational Database — FreeCodeCamp
-- JavaScript Developer — FreeCodeCamp
-- Foundation: Monitoring Production Agents — LangChain Academy
-- AWS Solutions Architecture Job Simulation — Forage
-
-</details>
-
----
-
-<details>
-<summary><b>🎯 Current Objectives</b></summary>
-
-<br>
-
-- Scale LekhaBit into a production-grade SaaS platform
-- Build Kydel ASM ecosystem
-- Advance backend engineering expertise
-- Master Kubernetes & Distributed Systems
-- Expand cloud-native architecture skills
-
-</details>
-
----
-
-<details>
-<summary><b>👋 Connect</b></summary>
-
-<br>
+<summary><b>🧰 Stack</b></summary>
+<br/>
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/social?username=srtsubham&theme=neon" alt="social"/>
+  <img src="https://www.gitskins.com/api/section/stack?username=srtsubham&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F99881046%3Fu%3Da14ac869b55315168c14e023e80bec42c836c0d4%26v%3D4" alt="srtsubham stack visual" />
 </p>
 
 </details>
 
----
+<details>
+<summary><b>📊 By the numbers</b></summary>
+<br/>
+
+<b>13</b> public repositories, <b>4</b> stars, <b>729</b> contributions in the last year, a longest streak of <b>44</b> days and <b>17</b> followers.
 
 <p align="center">
-
-### 🚀 Building scalable software, intelligent systems and cloud infrastructure.
-
+  <img src="https://www.gitskins.com/api/section/stats?username=srtsubham&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F99881046%3Fu%3Da14ac869b55315168c14e023e80bec42c836c0d4%26v%3D4" alt="srtsubham stats visual" />
 </p>
+
+</details>
+
+<details>
+<summary><b>🟩 Activity</b></summary>
+<br/>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/heatmap?username=srtsubham&theme=neon" alt="srtsubham contribution activity" />
+</p>
+
+</details>
+
+<details>
+<summary><b>👋 Say hello</b></summary>
+<br/>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=srtsubham&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F99881046%3Fu%3Da14ac869b55315168c14e023e80bec42c836c0d4%26v%3D4" alt="srtsubham social visual" />
+</p>
+
+</details>
+
+<p align="center"><sub>Somya Ranjan Tripathi · Everything hub generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
