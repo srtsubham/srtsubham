@@ -134,12 +134,8 @@
 ---
 
 <div align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=srtsubham&show_icons=true&count_private=true&theme=dark&bg_color=0D1117&title_color=FF5722&icon_color=FF5722&text_color=C9D1D9&border_color=30363D" alt="GitHub Stats" />
-  <img height="175em" src="https://github-readme-streak-stats.herokuapp.com/?user=srtsubham&theme=dark&background=0D1117&ring=FF5722&fire=FF5722&currStreakLabel=FF5722&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&border=30363D" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srtsubham&layout=compact&langs_count=8&theme=dark&bg_color=0D1117&title_color=FF5722&text_color=C9D1D9&border_color=30363D" alt="Top Languages" />
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=srtsubham&show_icons=true&count_private=true&theme=dark&bg_color=0D1117&title_color=FF5722&icon_color=FF5722&text_color=C9D1D9&border_color=30363D" alt="GitHub Stats" />
+  <img height="120em" src="https://github-readme-streak-stats.herokuapp.com/?user=srtsubham&theme=dark&background=0D1117&ring=FF5722&fire=FF5722&currStreakLabel=FF5722&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&border=30363D" alt="GitHub Streak" />
 </div>
 
 ---
