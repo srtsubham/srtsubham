@@ -2,7 +2,9 @@
   <img src="https://www.gitskins.com/api/section/hero?username=srtsubham&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F99881046%3Fu%3Da14ac869b55315168c14e023e80bec42c836c0d4%26v%3D4" alt="srtsubham hero visual" />
 </p>
 
-<p align="center">Software Development Engineer (SDE) · Backend Development · Neural Modeling<br/></p>
+<p align="center">Software Development Engineer (SDE) · Backend Development · Neural Modeling<br/><sub>Software Engineer with purpose-driven commits.
+
+ #Django #Springboot #Postgres #Pytorch #Docker #Flask #React.js #Next.js</sub></p>
 
 <p align="center"><a href="https://github.com/srtsubham">GitHub</a> · <a href="https://srtripathi.netlify.app/">Portfolio</a></p>
 
