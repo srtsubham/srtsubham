@@ -112,10 +112,6 @@
   </tr>
 </table>
 
-- ⛰️ **[Hill & Valleys Prediction](https://github.com/srtsubham/YBI-Internship-Prediction-Modeling-of-Hills-and-Valleys)** — Trained topographical regression models across **120,000+ data points** with automated Python feature engineering pipelines.
-- 🏥 **[Medisys Clinical ERP](https://github.com/srtsubham/Medisys_Clinical_ERP)** — Full-stack clinical workflow and ERP system built with Python & Django.
-- 🌐 **[Showcase Portfolio](https://github.com/srtsubham/Showcase)** & **[AI Philosophy](https://aiphilosophy.netlify.app/)** — Personal developer hub and interactive AI ethics platform.
-
 ---
 
 ## `>_` 💼 Professional Experience
