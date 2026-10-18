@@ -4,7 +4,7 @@
 
 <p align="center">Software Development Engineer (SDE) · Backend Development · Neural Modeling<br/><sub>Software Engineer with purpose-driven commits.
 
- #Django #Springboot #Postgres #Pytorch #Docker #Flask #React.js #Next.js</sub></p>
+ #Django #Springboot #Postgres #Pytorch #Docker #Flask #React.js #Next.js </sub></p>
 
 <p align="center"><a href="https://github.com/srtsubham">GitHub</a> · <a href="https://srtripathi.netlify.app/">Portfolio</a></p>
 
