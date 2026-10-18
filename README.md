@@ -7,7 +7,7 @@
 </h3>
 
 <h3 align="center">
-  <i>AI Systems Engineer &nbsp;|&nbsp; Full-Stack Developer &nbsp;|&nbsp; DevOps & Cloud Infrastructure</i>
+  <i>Turning Blueprints Into Battlegrounds.</i>
 </h3>
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-srtripathi.netlify.app-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117)](https://srtripathi.netlify.app/)
