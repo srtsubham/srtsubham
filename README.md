@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Somya Ranjan Tripathi</h1>
+[<h1 align="center">Hi 👋, I'm Somya Ranjan Tripathi</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1200&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Development+Engineer;Backend+Engineer;Cloud+%26+AI+Infrastructure+Builder;Building+Production+Ready+Systems;Java+%7C+Spring+Boot+%7C+AWS+%7C+DevOps" />
@@ -217,3 +217,4 @@ AI-powered weather prediction and analytics platform.
 <h3 align="center">
 🚀 Building scalable software, intelligent systems and cloud infrastructure.
 </h3>
+](https://github.com/srtsubham/srtsubham)
