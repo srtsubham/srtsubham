@@ -1,85 +1,55 @@
-# Somya Ranjan Tripathi
-
-### AI Systems Engineer | Full Stack Developer | DevOps & Scalable Infrastructure
-**Lucknow, India** 🇮🇳
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![AI/ML](https://img.shields.io/badge/AI%20&%20ML-PyTorch-EE4C2C?style=for-the-badge)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-
----
-
-## 📖 About Me
-I am an innovative **Computer Science Engineer** with a strong foundation in **Data Structures & Algorithms** and **End-to-End AI Development**. I specialize in bridging the gap between raw data engineering and scalable software solutions.
-
-* 🔭 I’m currently working on **Smart Sahayak** (An AI driven Kiosk Project).
-* 🌱 I’m currently learning **DevOps** and **CI/CD**.
-* 💡 **Innovation:** Conceptualized Production Grade Systems (with AI Automation) and Spy Camera Detection Systems.
-* 💬 Ask me about **Java, Python, AI Pipelines, API Handling, Projects, Pytorch, Kubernetes, Docker, CI/CD, Full Stack Project Management, Pandas, Ai & ML, Pandas, Numpy, Spring Boot & many more**.
-
----
-
-## 🛠️ Tech Stack & Arsenal
-
-| Domain | Technologies |
-| :--- | :--- |
-| **Languages** | ![Java](https://img.shields.io/badge/-Java-black?logo=java) ![Python](https://img.shields.io/badge/-Python-black?logo=python) ![C](https://img.shields.io/badge/-C-black?logo=c) ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript) |
-| **AI & Data Science** | ![PyTorch](https://img.shields.io/badge/-PyTorch-black?logo=pytorch) ![Pandas](https://img.shields.io/badge/-Pandas-black?logo=pandas) ![NumPy](https://img.shields.io/badge/-NumPy-black?logo=numpy) ![Scikit-learn](https://img.shields.io/badge/-Scikit_Learn-black?logo=scikit-learn) |
-| **Web Dev** | ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-black?logo=springboot) ![React](https://img.shields.io/badge/-React-black?logo=react) ![Node.js](https://img.shields.io/badge/-Node.js-black?logo=nodedotjs) ![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5) |
-| **Databases** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?logo=postgresql) ![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql) |
-| **Tools & Cloud** | ![Git](https://img.shields.io/badge/-Git-black?logo=git) ![Streamlit](https://img.shields.io/badge/-Streamlit-black?logo=streamlit) ![Postman](https://img.shields.io/badge/-Postman-black?logo=postman) |
-
----
-
-## 🚀 Featured Projects
-
-### 🛰️ [AMBARAM Sentinel - AI Weather Prediction](https://github.com/srtsubham/Minor_Project_Ambaram)
-* **Tech:** Python, PyTorch, Streamlit, SQLite.
-* **Description:** Advanced meteorological dashboard tracking extreme weather events (Cyclones, Heatwaves) using ISRO satellite telemetry.
-* **Role:** Project Lead & AI Architect.
-
-### ⛰️ [Hill and Valleys Prediction](https://github.com/srtsubham/YBI-Internship-Prediction-Modeling-of-Hills-and-Valleys)
-* **Tech:** Python, Pandas, Scikit-learn.
-* **Description:** Conducted rigorous EDA and Feature Engineering to optimize regression models for topographical analysis.
-* **Context:** Internship at YBI Foundation.
-
-### 🤖 [AI PHILOSOPHY](https://aiphilosophy.netlify.app/)
-* **Tech:** HTML, CSS, JavaScript.
-* **Description:** A public-facing platform discussing AI ethics, featuring a prototype chatbot interface.
-
----
-
-## 💼 Professional Experience
-
-| Role | Organization | Timeline |
-| :--- | :--- | :--- |
-| **AI & ML Intern** | **YBI Foundation** (Remote) | *Sept 2024 - Nov 2024* |
-
-## 💻 Job Simulations
-
-| **Software Engineer Intern** | **JPMorgan Chase & Co.** (Virtual/Forage) | *Oct 2024 - Nov 2024* |
-| :--- | :--- | :--- |
-| **Solutions Architect Intern** | **AWS** (Virtual/Forage) | *Jul 2024 - Aug 2024* |
-
----
-
-## 📈 GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=srtsubham&show_icons=true&theme=radical&count_private=true" height="150" alt="Somya's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srtsubham&layout=compact&theme=radical" height="150" alt="Top Languages" />
+
+<!-- ANIMATED WAVING HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:ff5722&height=230&section=header&text=Somya%20Ranjan%20Tripathi&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Systems%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20DevOps%20%26%20Cloud%20Infrastructure&descAlignY=58&descSize=17" width="100%" alt="Somya Ranjan Tripathi" />
+
+<!-- ANIMATED TYPING SVG -->
+<a href="https://srtripathi.netlify.app/">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=1000&color=FF5722&center=true&vCenter=true&repeat=true&width=880&height=45&lines=Software+Development+Engineer+(SDE)+%7C+Backend+%26+Neural+Modeling;Integrating+high-performance+backends+and+generative+AI.;Architecting+scalable+cloud+infrastructure+and+executing+complex+challenges.;Java+Spring+Boot+%7C+Python+PyTorch+%7C+FastAPI+%7C+Next.js+%7C+Docker+%26+AWS" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- CORE STACK PILLS -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/AI_%26_ML-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/AWS_Cloud-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+</p>
+
+<!-- BRANDED CONTACT & TELEMETRY BADGES -->
+<p align="center">
+  <a href="https://srtripathi.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/PORTFOLIO-srtripathi.netlify.app-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/srtsubham" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-srtsubham-FF5722?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn" />
+  </a>
+  <a href="mailto:somyar.tripathi@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-somyar.tripathi%40gmail.com-FF5722?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=srtsubham&label=PROFILE+VIEWS&color=FF5722&style=for-the-badge&labelColor=0D1117" alt="Profile Views" />
+</p>
+
 </div>
 
 ---
 
-## 🤝 Connect With Me
+## `>_` 📖 About Me
 
-<p align="center">
-<a href="https://www.linkedin.com/in/somya-ranjan-tripathi-9136b42a4/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="somya ranjan tripathi" /></a>
-<a href="mailto:somyar.tripathi@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="somyar.tripathi@gmail.com" /></a>
-</p>
+I am a **Software Development & AI Systems Engineer** based in **Lucknow, India** 🇮🇳, specializing in high-performance backend systems, cloud-native DevOps, and end-to-end AI pipeline development. With a strong foundation in **Data Structures & Algorithms**, I bridge the gap between raw data engineering, neural modeling, and scalable production infrastructure.
 
-<p align="center">
-  <small>© 2026 Somya Ranjan Tripathi | "Software Engineer with purpose-driven commits"</small>
-</p>
+```yaml
+engineer: "Somya Ranjan Tripathi"
+education: "B.Tech in CSE @ Babu Banarasi Das (BBD) University (2023 - 2027)"
+roles:
+  - "AI & Systems Engineer"
+  - "Full-Stack & Backend Developer (Java / Spring Boot / FastAPI)"
+  - "DevOps & Cloud Infrastructure Associate (AWS / Docker / CI/CD)"
+current_focus:
+  - "Scaling LekhaBit Platform for high-concurrency SaaS operations"
+  - "Orchestrating agentic AI workflows & production ML pipelines"
+  - "Building hardware-software integrated systems (Smart Sahayak & Spy Camera Detection)"
