@@ -151,10 +151,6 @@
   <img src="https://www.gitskins.com/api/section/stack?username=srtsubham&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F99881046%3Fu%3Da14ac869b55315168c14e023e80bec42c836c0d4%26v%3D4" alt="srtsubham stack visual" />
 </p>
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/social?username=srtsubham&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F99881046%3Fu%3Da14ac869b55315168c14e023e80bec42c836c0d4%26v%3D4" alt="srtsubham social visual" />
-</p>
-
 </details>
 
 <div align="center">
