@@ -2,11 +2,10 @@
   <img src="https://www.gitskins.com/api/section/hero?username=srtsubham&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F99881046%3Fu%3Da14ac869b55315168c14e023e80bec42c836c0d4%26v%3D4" alt="srtsubham hero visual" />
 </p>
 
-<p align="center"><b>Somya Ranjan Tripathi</b> · Frontend or full-stack engineer<br/><sub>Software Engineer with purpose-driven commits.
+<p align="center">Software Development Engineer (SDE) · Backend Development · Neural Modeling<br/><sub>#Django #Springboot #Postgres #Pytorch #Docker #Flask #React.js #Next.js
+ </sub></p>
 
- #Django #Springboot #Postgres #Pytorch #Docker #Flask #React.js #Next.js</sub></p>
-
-<p align="center"><a href="https://github.com/srtsubham">GitHub</a> · <a href="https://srtripathi.netlify.app/">Website</a></p>
+<p align="center"><a href="https://github.com/srtsubham">GitHub</a> · <a href="https://srtripathi.netlify.app/">Portfolio</a></p>
 
 <details open>
 <summary><b>📌 Top projects</b></summary>
@@ -25,7 +24,7 @@
 
 </details>
 
-<details>
+<details open>
 <summary><b>🧰 Stack</b></summary>
 <br/>
 
@@ -35,7 +34,7 @@
 
 </details>
 
-<details>
+<details open>
 <summary><b>📊 By the numbers</b></summary>
 <br/>
 
@@ -47,7 +46,7 @@
 
 </details>
 
-<details>
+<details open>
 <summary><b>🟩 Activity</b></summary>
 <br/>
 
@@ -57,14 +56,14 @@
 
 </details>
 
-<details>
-<summary><b>👋 Say hello</b></summary>
+<details open>
+<summary><b>👋 Lets Sync!</b></summary>
 <br/>
-
+.
 <p align="center">
   <img src="https://www.gitskins.com/api/section/social?username=srtsubham&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F99881046%3Fu%3Da14ac869b55315168c14e023e80bec42c836c0d4%26v%3D4" alt="srtsubham social visual" />
 </p>
 
 </details>
 
-<p align="center"><sub>Somya Ranjan Tripathi · Everything hub generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+<p align="center"><sub>Somya Ranjan Tripathi · All rights reserved <a href="https://www.gitskins.com/readme-generator">2026</a></sub></p>
