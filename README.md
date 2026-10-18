@@ -16,7 +16,7 @@
 
 <br/><br/>
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=srtsubham&bg_color=0d1117&color=c9d1d9&line=ff5722&point=ffffff&area=true&area_color=ff5722&hide_border=false&border_color=30363d"/>
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=srtsubham&bg_color=0d1117&color=c9d1d9&line=ff5722&point=ffffff&area=true&area_color=ff5722&hide_border=false&border_color=30363d" alt="Contribution Graph."/>
 
 <img width="98%" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 
