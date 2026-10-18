@@ -134,8 +134,8 @@
 ---
 
 <div align="center">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=srtsubham&show_icons=true&count_private=true&theme=dark&bg_color=0D1117&title_color=FF5722&icon_color=FF5722&text_color=C9D1D9&border_color=30363D" alt="GitHub Stats" />
-  <img height="140em" src="https://github-readme-streak-stats.herokuapp.com/?user=srtsubham&theme=dark&background=0D1117&ring=FF5722&fire=FF5722&currStreakLabel=FF5722&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&border=30363D" alt="GitHub Streak" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=srtsubham&show_icons=true&count_private=true&theme=dark&bg_color=0D1117&title_color=FF5722&icon_color=FF5722&text_color=C9D1D9&border_color=30363D" alt="GitHub Stats" />
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=srtsubham&theme=dark&background=0D1117&ring=FF5722&fire=FF5722&currStreakLabel=FF5722&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&border=30363D" alt="GitHub Streak" />
 </div>
 
 ---
