@@ -2,9 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ff5722&height=200&section=header&text=Somya%20Ranjan%20Tripathi&fontSize=48&fontColor=ffffff&fontAlignY=38" width="100%" alt="Somya Ranjan Tripathi" />
 
-<h1 align="center">
+<h2 align="center">
   𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫 (𝐒𝐃𝐄) &nbsp;·&nbsp; 𝐁𝐚𝐜𝐤𝐞𝐧𝐝 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 &nbsp;·&nbsp; 𝐍𝐞𝐮𝐫𝐚𝐥 𝐌𝐨𝐝𝐞𝐥𝐢𝐧𝐠
-</h1>
+</h2>
 
 <h3 align="center">
   <i>AI Systems Engineer &nbsp;|&nbsp; Full-Stack Developer &nbsp;|&nbsp; DevOps & Cloud Infrastructure</i>
