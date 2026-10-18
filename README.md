@@ -2,9 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ff5722&height=200&section=header&text=Somya%20Ranjan%20Tripathi&fontSize=48&fontColor=ffffff&fontAlignY=38" width="100%" alt="Somya Ranjan Tripathi" />
 
-<h2 align="center">
+<h3 align="center">
   𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫 (𝐒𝐃𝐄) &nbsp;·&nbsp; 𝐁𝐚𝐜𝐤𝐞𝐧𝐝 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 &nbsp;·&nbsp; 𝐍𝐞𝐮𝐫𝐚𝐥 𝐌𝐨𝐝𝐞𝐥𝐢𝐧𝐠
-</h2>
+</h3>
 
 <h3 align="center">
   <i>AI Systems Engineer &nbsp;|&nbsp; Full-Stack Developer &nbsp;|&nbsp; DevOps & Cloud Infrastructure</i>
@@ -32,7 +32,7 @@
 
 <blockquote>
   <p>🎓 <b>𝐄𝐝𝐮𝐜𝐚𝐭𝐢𝐨𝐧:</b> B.Tech in Computer Software Engineering @ <b>Babu Banarasi Das (BBD) University</b>, Lucknow <i>(2023 – 2027)</i></p>
-  <p>⚙️ <b>𝐂𝐨𝐫𝐞 𝐃𝐨𝐦𝐚𝐢𝐧𝐬:</b> AI & Systems Engineering &nbsp;•&nbsp; Full-Stack & Backend Architecture <i>(Java / Spring Boot / FastAPI)</i> &nbsp;•&nbsp; Cloud & DevOps <i>(AWS / Docker / CI/CD)</i></p>
+  <p>⚙️ <b>𝐂𝐨𝐫𝐞 𝐃𝐨𝐦𝐚𝐢𝐧𝐬:</b> Software Development Engineering (SDE) &nbsp;•&nbsp; High-Performance Backend Systems <i>(Java / Spring Boot / FastAPI)</i> &nbsp;•&nbsp; Neural Modeling & Predictive ML Pipelines</p>
   <p>🚀 <b>𝐂𝐮𝐫𝐫𝐞𝐧𝐭 𝐅𝐨𝐜𝐮𝐬:</b> Scaling <b>LekhaBit Platform</b> for high-concurrency MSME & GST SaaS operations, architecting <b>Project Doris</b> <i>(Predictive Hydrology Engine)</i>, and orchestrating agentic AI workflows.</p>
 </blockquote>
 
