@@ -67,7 +67,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>☁️ <a href="https://github.com/srtsubham/CampusSync">Campus-Sync</a></h3>
+      <h3>🎒 <a href="https://github.com/srtsubham/CampusSync">Campus-Sync</a></h3>
       <p><b>Cloud-Native ERP & Synchronization Platform</b></p>
       <ul>
         <li>Engineered a containerized <b>FastAPI</b> and <b>React.js</b> backend deployed via <b>Docker on AWS</b>, reducing data latency by <b>40%</b>.</li>
