@@ -158,7 +158,7 @@
 
 <div align="center">
   <br/>
-  <small>© 2026 Somya Ranjan Tripathi &nbsp;•&nbsp; <i>"Software Development Engineer with purpose-driven commits"</i></small>
+  <small>© 2026 Somya Ranjan Tripathi &nbsp;•&nbsp; <i>Software Development Engineer with purpose-driven commits.</i></small>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ff5722&height=100&section=footer" width="100%" alt="Footer Banner" />
 </div>
